@@ -1,0 +1,86 @@
+************************************************************************
+**                                                                    **
+**                                                                    **
+**                        OpenRadioss Starter                         **
+**                                                                    **
+**            Non-linear Finite Element Analysis Software             **
+**                                                                    **
+**                                                                    **
+**                                                                    **
+**                  Windows 64 bits, Intel compiler                   **
+**                      Double Precision Version                      **
+**                                                                    **
+**                                                                    **
+**                                                                    **
+************************************************************************
+** OpenRadioss Software                                               **
+** COPYRIGHT (C) 1986-2026 Altair Engineering, Inc.                   **
+** Licensed under GNU Affero General Public License.                  **
+** See License file.                                                  **
+************************************************************************
+ 
+
+ .. UNITS SYSTEM                                                                         
+ .. CONTROL VARIABLES                                                                    
+ .. STARTER RUNNING ON    1 THREAD
+ .. FUNCTIONS & TABLES
+ .. MATERIALS                                                                            
+ .. NODES                                                                                
+ .. PROPERTIES                                                                           
+ .. 3D SHELL ELEMENTS                                                                    
+ .. 3D SPRING ELEMENTS                                                                   
+ .. 3D TRIANGULAR SHELL ELEMENTS                                                         
+ .. SUBSETS
+ .. ELEMENT GROUPS
+ .. PART GROUPS
+ .. SURFACES 
+ .. NODE GROUP
+ .. BOUNDARY CONDITIONS                                                                  
+ .. ACCELEROMETERS
+ .. INITIAL VELOCITIES                                                                   
+ .. DOMAIN DECOMPOSITION
+ .. ELEMENT GROUPS                                                                       
+ .. INTERFACES                                                                           
+ .. INTERFACE BUFFER INITIALIZATION                                                      
+ .. RIGID WALLS                                                                          
+ .. RIGID BODIES                                                                         
+ .. RETURNS TO DOMAIN DECOMPOSITION FOR OPTIMIZATION
+ .. DOMAIN DECOMPOSITION
+ .. ELEMENT GROUPS                                                                       
+ .. INTERFACES                                                                           
+ .. INTERFACE BUFFER INITIALIZATION                                                      
+
+WARNING ID :    343
+** WARNING: INITIAL PENETRATIONS IN INTERFACE
+ .. RIGID WALLS                                                                          
+ .. RIGID BODIES                                                                         
+ .. ELEMENT BUFFER INITIALIZATION                                                        
+ .. SECTIONS
+ .. GEOMETRY PLOT FILE                                                                   
+ .. PARALLEL RESTART FILES GENERATION                                                    
+  
+------------------------------------------------------------------------
+  
+                   ** COMPUTE TIME INFORMATION **
+  
+ EXECUTION STARTED      :      2026/05/25  15:10:51
+ EXECUTION COMPLETED    :      2026/05/25  15:10:52
+  
+ ELAPSED TIME...........=          1.60 s
+                               00:00:01
+  
+------------------------------------------------------------------------
+
+
+
+     TERMINATION WITH WARNING           
+     ------------------                                                                  
+              0 ERROR(S)            
+              1 WARNING(S)          
+
+
+
+
+PLEASE CHECK LISTING FILE FOR FURTHER DETAILS
+
+
