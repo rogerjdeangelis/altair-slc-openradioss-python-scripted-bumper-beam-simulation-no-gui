@@ -7,6 +7,15 @@
 /VERS/2022
 
 #-------------------------------------
+# GPS SENSOR OUTPUT (Stress components)
+#-------------------------------------
+/TH/GPS/1
+Bumper_GPS_Sensors
+SIGXX SIGYY SIGZZ SIGXY SIGYZ SIGZX
+NODE_ID_LIST
+1000001 1000002 1000003 1000004 1000005
+
+#-------------------------------------
 # ANIMATION OUTPUT (for ParaView)
 #-------------------------------------
 /ANIM/DT
@@ -29,4 +38,3 @@
 /PRINT/-100/55
 /TFILE/0
 0.100000
-
